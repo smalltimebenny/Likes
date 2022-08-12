@@ -1,3 +1,6 @@
+// I would like to have one function that can act for each comment's likes. I was unable to do so at this time but will need to look into pulling more info from the the HTML to add as variables.
+// Also how to insert vairables into an argument.
+
 var like = 0
 var like2 = 0
 var like3 = 0
